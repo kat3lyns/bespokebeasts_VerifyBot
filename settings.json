@@ -1,0 +1,8 @@
+{
+        "bot_token": "XXXXXXXXXXXXXXXX",
+        "guild_id": "XXXXXXXXXXXXXXXX",
+        "staff_role": "XXXXXXXXXXXXXXXX",
+        "archive_channel": "XXXXXXXXXXXXXXXX",
+        "approve_deny_channel": "XXXXXXXXXXXXXXXX",
+        "verified_role": "XXXXXXXXXXXXXXXX",
+}
